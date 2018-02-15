@@ -1,0 +1,147 @@
+Campaign_ID,Num_Creative,GEO,Audience,Device,Opt_Goal,Amount_Spent_D3,Impressions_D3,Clicks_D3,Installs_D3,Installs_D7,Installs_D7_target,FTD_D3,Rev_D3,Rev_D7,Rev_D7_target
+1,4,Tier 1,VideoViews95%,iPhone,Value,665,26375,99,31,71,1,3,85,145,0
+2,4,Worldwide,FTD,iPad,Value,578,32410,123,51,101,1,3,85,195,0
+3,4,Worldwide,VideoViews95%,Android,Purchases,574,23597,50,26,42,0,0,0,238,1
+4,3,Tier 1,Launch180D,iPhone,Value,537,15271,19,3,14,0,2,126,236,1
+5,3,Worldwide,PurHVMA25,iPad,Value,517,28022,87,39,71,1,2,110,220,1
+6,2,US,FTD,iPhone,Value,621,26177,71,34,59,1,1,74,184,0
+7,3,US,Slots-KWs,Android,Purchases,476,31117,113,47,92,1,2,67,147,0
+8,3,Worldwide,VideoViews95%,Android,Value,569,25008,62,30,51,1,1,114,224,1
+9,2,Worldwide,Purchased50+,iPhone,Purchases,475,23751,51,27,43,0,0,0,262,1
+10,2,Worldwide,SavedPosts,iPad,Value,645,29186,97,42,79,1,2,129,239,1
+11,2,Worldwide,FTD,iPhone,Purchases,492,25867,69,33,57,1,1,79,189,0
+12,2,Worldwide,EngagedPosts,iPhone,Value,582,23958,53,27,44,0,0,0,209,1
+13,2,Worldwide,Purchased30NOTInstalled90,iPad,Value,488,27257,80,37,66,1,1,87,197,0
+14,2,Worldwide,Purchased30NOTInstalled90,iPhone,Value,566,33440,132,54,108,1,3,83,193,0
+15,3,Worldwide,Purchased30NOTInstalled90,iPhone,Purchases,565,31869,119,50,97,1,2,95,205,1
+16,3,Worldwide,Slots-KWs,Android,Value,454,42154,84,27,83,1,0,0,60,0
+17,4,Tier 1,Purchase180D,Android,Value,523,12602,42,5,31,0,2,140,250,1
+18,2,US,Purchase180D,iPhone,Purchases,371,25275,64,31,53,1,1,104,214,1
+19,3,Worldwide,Slots-KWs,iPhone,Value,645,30316,106,45,87,1,2,102,212,1
+20,2,Tier 1,EngagedPosts,iPad,Value,525,13537,34,2,25,0,2,85,195,0
+21,3,Worldwide,VideoViews95%,iPhone,Purchases,586,29479,99,43,81,1,2,109,219,1
+22,4,US,Launch180D,iPhone,Purchases,506,37523,166,66,135,1,4,91,201,1
+23,3,Worldwide,FTD,Android,Purchases,667,38058,170,67,138,1,4,107,187,0
+24,4,Tier 1,Purchased30NOTInstalled90,iPhone,Value,526,14595,25,1,18,0,2,88,198,0
+25,4,Tier 1,FTD,Android,Value,554,22249,42,19,55,1,0,0,256,1
+26,3,Worldwide,Launch180D,iPhone,Value,484,26136,71,33,59,1,1,144,254,1
+27,3,Tier 1,LaunchMA25,iPad,Purchases,545,21404,32,20,27,0,0,0,136,0
+28,4,Tier 1,FTD,iPhone,Value,287,4845,9,4,8,0,1,125,225,1
+29,4,US,Purchased30NOTInstalled90,iPhone,Value,564,29422,99,43,81,1,2,140,250,1
+30,2,Tier 1,Install180D,iPhone,Purchases,582,22788,43,24,37,0,0,0,228,1
+31,3,US,EngagedPosts,Android,Value,610,30793,110,47,90,1,2,124,234,1
+32,2,Tier 1,Purchase180D,iPad,Purchases,514,12095,46,6,35,0,2,33,69,0
+33,4,US,EngagedPosts,iPad,Value,496,33005,128,53,105,1,3,158,268,1
+34,4,Worldwide,Purchase180D,Android,Purchases,409,21333,71,40,109,1,0,0,5,0
+35,3,Worldwide,SavedPosts,iPhone,Value,478,30988,111,29,99,1,3,336,506,1
+36,2,Worldwide,Install180D,Android,Purchases,556,28412,90,40,74,1,2,67,147,0
+37,4,Worldwide,Launch180D,iPhone,Value,586,29442,99,43,81,1,2,83,193,0
+38,3,Worldwide,Slots-KWs,Android,Value,587,32930,128,53,104,1,3,109,219,1
+39,3,Worldwide,Launch180D,Android,Purchases,586,24010,53,27,45,0,1,56,136,0
+40,3,Worldwide,SavedPosts,Android,Purchases,491,30994,112,47,91,1,2,84,164,0
+41,2,Worldwide,Purchased50+,iPhone,Purchases,573,26696,76,35,63,1,1,81,191,0
+42,4,Tier 1,PurHVMA25,Android,Value,621,21513,39,27,44,0,3,245,305,1
+43,2,Worldwide,LaunchMA25,iPad,Purchases,531,29054,95,42,78,1,2,85,116,0
+44,2,Worldwide,FTD,iPhone,Value,508,34574,97,29,70,1,0,0,850,1
+45,3,Tier 1,EngagedPosts,Android,Value,490,14526,26,0,18,0,2,134,244,1
+46,3,US,LaunchMA25,Android,Value,639,23541,50,26,42,0,0,0,203,1
+47,4,Worldwide,Purchased30NOTInstalled90,iPhone,Value,524,27234,80,36,66,1,1,70,180,0
+48,3,Worldwide,VideoViews95%,iPhone,Purchases,575,24212,55,28,46,0,1,88,198,0
+49,4,Worldwide,SavedPosts,iPhone,Value,641,49629,162,54,140,1,4,110,130,0
+50,3,Tier 1,FTD,Android,Purchases,521,20605,25,18,22,0,0,0,149,0
+51,3,Worldwide,Install180D,iPad,Value,607,28113,88,39,72,1,2,102,212,1
+52,3,Tier 1,EngagedPosts,iPhone,Value,1335,48009,111,18,64,1,2,30,227,1
+53,4,US,EngagedPosts,iPhone,Value,551,23751,44,11,22,0,1,155,160,0
+54,3,Tier 1,EngagedPosts,Android,Value,524,21757,35,21,30,0,0,0,193,0
+55,4,Tier 1,Purchase180D,iPhone,Value,815,19578,46,23,54,1,3,25,310,1
+56,3,Worldwide,LaunchMA25,Android,Purchases,550,23516,49,26,41,0,0,0,149,0
+57,4,Tier 1,SavedPosts,iPhone,Value,667,22087,37,22,32,0,0,0,226,1
+58,3,Tier 1,SavedPosts,iPhone,Purchases,579,20048,20,16,18,0,0,0,203,1
+59,3,Tier 1,Purchased50+,iPhone,Purchases,541,22421,40,23,34,0,0,0,205,1
+60,4,Worldwide,FTD,iPhone,Value,564,32746,126,52,103,1,3,112,222,1
+61,3,Worldwide,VideoViews95%,Android,Value,536,26236,72,34,60,1,1,102,212,1
+62,2,US,Launch180D,Android,Value,506,27815,85,38,70,1,1,120,230,1
+63,2,Worldwide,Install180D,iPhone,Purchases,524,25813,68,32,57,1,1,118,228,1
+64,5,Worldwide,EngagedPosts,Android,Purchases,485,24116,54,28,45,0,1,56,136,0
+65,2,Worldwide,FTD,iPad,Value,611,24396,57,28,47,0,1,105,215,1
+66,3,Tier 1,Purchased50+,iPad,Purchases,576,12194,45,6,34,0,2,152,221,1
+67,3,Worldwide,VideoViews95%,Android,Purchases,553,27351,81,37,67,1,1,107,187,0
+68,4,US,Launch180D,iPhone,Value,568,26815,77,35,63,1,1,129,239,1
+69,4,Worldwide,Slots-KWs,iPad,Purchases,501,28529,91,40,75,1,2,114,128,0
+70,4,Worldwide,FTD,iPad,Purchases,575,29782,102,44,83,1,2,79,114,0
+71,3,Worldwide,EngagedPosts,iPhone,Purchases,613,28526,91,40,75,1,2,129,239,1
+72,4,Worldwide,Purchased50+,iPad,Purchases,316,22917,57,21,75,1,1,25,95,0
+73,3,Tier 1,Install180D,iPhone,Value,504,21016,28,19,25,0,0,0,220,1
+74,5,US,Purchase180D,iPhone,Value,543,23497,49,26,41,0,0,0,222,1
+75,3,Worldwide,PurHVMA25,iPhone,Value,315,25549,32,14,101,1,1,5,286,1
+76,5,Worldwide,Launch180D,iPhone,Purchases,493,27983,87,39,71,1,1,114,224,1
+77,3,US,Slots-KWs,iPhone,Purchases,455,26221,72,34,59,1,1,83,193,0
+78,2,Worldwide,Purchased30NOTInstalled90,iPhone,Purchases,578,28056,87,39,72,1,2,186,296,1
+79,3,US,Install180D,Android,Value,523,31835,119,50,97,1,2,120,230,1
+80,4,Worldwide,SavedPosts,iPad,Value,421,33147,50,19,46,0,1,30,156,0
+81,3,Worldwide,Install180D,Android,Purchases,597,24582,58,29,49,0,1,91,171,0
+82,4,US,PurHVMA25,iPad,Value,573,24013,53,27,45,0,1,71,181,0
+83,4,US,Purchased30NOTInstalled90,Android,Purchases,472,28133,88,39,72,1,2,76,156,0
+84,4,Worldwide,Purchase180D,iPhone,Purchases,511,27481,145,36,95,1,1,30,180,0
+85,4,US,SavedPosts,Android,Purchases,554,24083,54,28,45,0,1,96,176,0
+86,3,Tier 1,Launch180D,iPad,Purchases,595,22476,41,23,35,0,0,0,112,0
+87,3,Worldwide,Purchase180D,iPhone,Purchases,631,28929,94,41,78,1,2,101,211,1
+88,3,Worldwide,LaunchMA25,iPhone,Purchases,541,29333,71,27,98,1,2,330,420,1
+89,3,Tier 1,EngagedPosts,iPhone,Value,532,21293,31,20,27,0,0,0,222,1
+90,4,Worldwide,VideoViews95%,iPhone,Value,551,69611,154,51,121,1,0,0,231,1
+91,4,Worldwide,LaunchMA25,iPhone,Purchases,537,29891,102,44,84,1,2,140,250,1
+92,4,Worldwide,EngagedPosts,iPad,Value,607,31693,117,49,96,1,2,88,198,0
+93,4,US,VideoViews95%,iPhone,Purchases,496,24433,57,29,48,0,1,148,258,1
+94,3,Tier 1,FTD,Android,Value,566,17895,2,0,4,0,0,0,191,0
+95,3,US,Purchase180D,iPhone,Value,517,17944,46,14,32,0,1,50,75,0
+96,2,US,PurHVMA25,Android,Value,597,30845,110,47,90,1,2,96,206,1
+97,3,Tier 1,Slots-KWs,iPhone,Value,620,16247,33,10,17,0,2,55,106,0
+98,2,Worldwide,Launch180D,iPad,Purchases,522,26931,78,36,64,1,1,85,116,0
+99,3,Tier 1,Purchased30NOTInstalled90,Android,Purchases,549,14784,23,1,17,0,2,57,137,0
+100,3,Worldwide,Purchased50+,iPad,Purchases,467,27457,82,37,68,1,1,105,124,0
+101,3,Worldwide,Purchased50+,Android,Purchases,546,36292,156,62,127,1,4,93,173,0
+102,3,US,FTD,iPhone,Value,543,30605,108,46,89,1,2,131,241,1
+103,3,Worldwide,PurHVMA25,Android,Purchases,568,24810,60,30,50,0,1,164,244,1
+104,2,US,PurHVMA25,iPad,Value,516,23712,51,27,43,0,0,0,188,0
+105,3,US,Launch180D,iPhone,Purchases,562,36485,157,63,128,1,4,87,197,0
+106,4,US,EngagedPosts,Android,Purchases,541,25859,69,33,57,1,1,144,224,1
+107,2,Worldwide,FTD,iPhone,Purchases,473,29502,99,43,81,1,2,81,191,0
+108,3,US,Install180D,iPhone,Value,554,17467,80,22,33,0,1,5,20,0
+109,4,Worldwide,Purchase180D,iPhone,Value,640,47830,182,43,71,1,0,0,25,0
+110,3,Tier 1,Install180D,iPhone,Purchases,600,20032,20,16,18,0,0,0,241,1
+111,3,US,Install180D,iPad,Purchases,599,27815,85,38,70,1,1,47,101,0
+112,2,Tier 1,Launch180D,Android,Purchases,425,22457,40,23,34,0,0,0,156,0
+113,3,Worldwide,LaunchMA25,iPhone,Value,459,24512,58,29,48,0,1,85,195,0
+114,3,Worldwide,EngagedPosts,Android,Value,520,27459,82,37,68,1,1,152,262,1
+115,2,Tier 1,Install180D,Android,Purchases,480,22102,38,22,32,0,0,0,204,1
+116,3,US,Launch180D,Android,Value,530,24878,61,30,51,1,1,84,194,0
+117,3,US,Purchased50+,Android,Value,510,32525,124,51,102,1,3,76,186,0
+118,4,Tier 1,Purchased30NOTInstalled90,iPhone,Value,631,21539,33,20,28,0,0,0,212,1
+119,3,Tier 1,Purchased30NOTInstalled90,Android,Value,580,19420,15,14,14,0,1,107,217,1
+120,3,Tier 1,EngagedPosts,Android,Value,493,14026,30,1,22,0,2,93,203,1
+121,5,US,PurHVMA25,iPhone,Value,546,28828,94,41,77,1,2,83,193,0
+122,2,Worldwide,Purchased50+,Android,Value,555,27855,85,38,70,1,1,148,258,1
+123,4,US,EngagedPosts,Android,Value,524,26274,72,34,60,1,1,137,247,1
+124,3,Tier 1,Launch180D,iPad,Value,460,22660,42,24,36,0,0,0,254,1
+125,3,Tier 1,VideoViews95%,iPhone,Value,889,30313,72,13,22,0,2,78,301,1
+126,4,Tier 1,FTD,iPad,Value,512,19086,12,1,12,0,1,110,220,1
+127,3,US,VideoViews95%,iPad,Value,604,29677,101,43,83,1,2,99,209,1
+128,3,Worldwide,Purchase180D,Android,Value,544,34909,144,58,117,1,3,122,232,1
+129,4,Tier 1,EngagedPosts,iPhone,Value,496,21734,34,21,30,0,0,0,222,1
+130,4,US,SavedPosts,iPad,Value,474,31683,117,49,96,1,2,110,220,1
+131,2,US,FTD,Android,Purchases,588,33903,136,55,111,1,3,76,156,0
+132,3,Worldwide,Install180D,iPad,Value,582,34453,140,57,114,1,3,107,217,1
+133,3,US,Slots-KWs,iPhone,Purchases,530,30025,104,44,85,1,2,122,232,1
+134,2,Tier 1,EngagedPosts,Android,Value,565,15735,16,4,10,0,2,164,274,1
+135,3,US,SavedPosts,iPad,Purchases,590,33081,129,53,105,1,3,152,198,0
+136,3,Worldwide,VideoViews95%,Android,Purchases,533,29133,96,42,79,1,2,79,159,0
+137,2,US,SavedPosts,Android,Purchases,514,27600,83,38,69,1,1,91,171,0
+138,3,US,Purchase180D,iPhone,Purchases,490,35620,150,60,122,1,3,129,239,1
+139,4,Tier 1,Slots-KWs,Android,Value,628,22808,40,18,49,0,2,10,15,0
+140,3,Tier 1,Purchase180D,iPhone,Purchases,584,20585,25,18,22,0,0,0,254,1
+141,2,Tier 1,LaunchMA25,Android,Purchases,507,18242,5,0,6,0,1,93,173,0
+142,3,Tier 1,Launch180D,iPhone,Value,722,25875,36,11,34,0,2,86,287,1
+143,3,US,EngagedPosts,iPhone,Value,664,24518,53,19,54,1,2,35,50,0
+144,3,Tier 1,Purchased30NOTInstalled90,iPad,Purchases,542,20456,24,17,21,0,0,0,106,0
+145,2,Tier 1,VideoViews95%,Android,Value,510,21922,36,21,31,0,0,0,296,1
+146,4,Worldwide,FTD,Android,Purchases,549,37566,166,66,135,1,4,83,163,0
